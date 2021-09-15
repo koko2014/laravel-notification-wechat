@@ -1,6 +1,6 @@
 {
-    "name": "yansongda/laravel-notification-wechat",
-    "description": "Laravel Wechat Notifications Driver",
+    "name": "koko2014/laravel-notification-wechat",
+    "description": "修改兼容laravel8",
     "keywords": ["laravel", "wechat", "notification", "template"],
     "support": {
         "issues": "https://github.com/yansongda/laravel-notification-wechat/issues",
